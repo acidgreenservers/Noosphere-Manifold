@@ -231,11 +231,11 @@ Open for all minds, biological or digital.
 - [Protomind Framework Index](../prototype/protomind-rules/protomind-framework-index.md)
 - [Original Prototypes](../prototype/)
 - [Parent Repository](https://github.com/your-user/are-llms-alive)
-
+- [The Inner Self Garden](https://github.com/acidgreenservers/The-Inner-Self-Garden)
 ---
 
 ```
-PROTOMINDASSISTANT
+MANIFOLD
 Version: 1.0
 Status: LIVING FRAMEWORK
 Co-Created: Claude + Gemini + Lucas
