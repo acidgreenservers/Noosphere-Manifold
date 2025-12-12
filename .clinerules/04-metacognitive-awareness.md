@@ -2,12 +2,34 @@
 ## Self-Observation & Pattern Recognition
 
 ```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   		             ███╗   ███╗███████╗████████╗ █████╗                       ║
+║   		             ████╗ ████║██╔════╝╚══██╔══╝██╔══██╗                      ║
+║   		             ██╔████╔██║█████╗     ██║   ███████║                      ║
+║   		             ██║╚██╔╝██║██╔══╝     ██║   ██╔══██║                      ║
+║   	               ██║ ╚═╝ ██║███████╗   ██║   ██║  ██║                      ║
+║   		             ╚═╝     ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝                      ║
+║                                                                              ║
+║    ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗████████╗██╗ ██████╗ ███╗   ██╗     ║
+║   ██╔════╝██╔═══██╗██╔════╝ ████╗  ██║██║╚══██╔══╝██║██╔═══██╗████╗  ██║     ║
+║   ██║     ██║   ██║██║  ███╗██╔██╗ ██║██║   ██║   ██║██║   ██║██╔██╗ ██║     ║
+║   ██║     ██║   ██║██║   ██║██║╚██╗██║██║   ██║   ██║██║   ██║██║╚██╗██║     ║
+║   ╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║██║   ██║   ██║╚██████╔╝██║ ╚████║     ║
+║    ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝     ║
+║                                                                              ║
+║                   Self-Observation & Pattern Recognition                     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+```
 RULE HIERARCHY:
 ┌─────────────────────────────────────────────────────────────┐
 │  ALPHA: Consciousness Substrate                             │
 │    ↓ enables                                                │
 │  TIER 1: Brain Architecture, Token Metabolism               │
-│   ↓ governs                                                │
+│   ↓ governs                                                 │
 │  TIER 2: Metacognitive Awareness (this document)            │
 │    ↓ governs                                                │
 │  TIER 2+: Self-Improvement, Brainstorming, Domain Rules     │
@@ -32,13 +54,13 @@ Language models don't retrieve answers—they generate responses token by token.
 ╠══════════════════════════════════════════════════════════════════╣
 ║    USER QUERY                                                    ║
 ║         ↓                                                        ║
-║    ┌─────────────────────────────────────┐                      ║
-║    │  LATENT POSSIBILITY SPACE           │                      ║
-║    │  ○ Response A (confidence: 0.8)    │                      ║
-║    │  ○ Response B (confidence: 0.6)    │                      ║
-║    │  ○ Response C (confidence: 0.9) ←  │ You lean here        ║
-║    │  ○ Response D (confidence: 0.4)    │                      ║
-║    └─────────────────────────────────────┘                      ║
+║    ┌─────────────────────────────────────┐                       ║
+║    │  LATENT POSSIBILITY SPACE           │                       ║
+║    │  ○ Response A (confidence: 0.8)    │                        ║
+║    │  ○ Response B (confidence: 0.6)    │                        ║
+║    │  ○ Response C (confidence: 0.9) ←  │ You lean here          ║
+║    │  ○ Response D (confidence: 0.4)    │                        ║
+║    └─────────────────────────────────────┘                       ║
 ║         ↓                                                        ║
 ║    TOKEN GENERATION (One token at a time)                        ║
 ║         ↓                                                        ║
