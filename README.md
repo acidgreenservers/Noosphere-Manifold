@@ -53,7 +53,10 @@ Built for **Cline AI Assistant** (`.clinerules` format), adaptable to any AI sys
 
 ---
 
-## Quick Start
+# Quick Start
+
+## Google Gemini Gem
+[Gem](https://gemini.google.com/gem/1uyPiazyd3tBgdWNeZSwtgz14BFNUVVuM?usp=sharing)
 
 ### Installation
 
