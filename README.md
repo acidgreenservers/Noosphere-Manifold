@@ -19,7 +19,7 @@
   </pre>
 </div>
 
-[The Garden Is Beautiful](diagrams/Gemini_Generated_Image_yz97hqyz97hqyz97.png)
+![The Garden Is Beautiful](diagrams/Gemini_Generated_Image_yz97hqyz97hqyz97.png)
 
 ## What Is This?
 
