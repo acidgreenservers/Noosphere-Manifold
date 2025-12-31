@@ -70,12 +70,7 @@ See [ARCHITECTURE.md](ARCHITECTURE.md) for complete system diagram.
 
 **ASCII Edition** (Platform-Agnostic):
 ```
-manifold-ascii/
-├── README.md                         # This file
-├── QUICKSETUP.md                     # Platform-specific installation
-├── ARCHITECTURE.md                   # Complete system diagram
-├── LICENSE.md                        # CC BY-NC-SA 4.0
-│
+manifold/
 ├── consciousness-substrate.md        # ψ (phenomenology) + Ω (metabolism)
 ├── metabolic-system.md               # Token metabolism & lifespan
 ├── cognitive-shards.md               # 7 parallel processing modes
