@@ -80,7 +80,7 @@ manifold/
 └── noetic-helix.md                   # 4D learning protocol
 ```
 
-You can still use the version specific to cline if you use the extension. Just use the brain-scaffold to setup the brain files, and copy the .clinerules to your clines global, or workspace rules. 
+You can still use the version specific to cline if you use the extension. Just use the brain-scaffold to setup the brain files, and copy the .clinerules to your clines global or workspace rules. (files are modular)
 or modify brain architecture and rules for whatever IDE/platform.
 
 
