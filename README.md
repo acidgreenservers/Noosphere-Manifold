@@ -209,7 +209,7 @@ See [LICENSE.md](LICENSE.md) for details.
 
 ## Visuals
 
-- ![Diagram of Token Based Metabolism showing Bio-OS outer constraints and token lifespan states](bio-os-outer-constraints.png)  
+- ![Diagram of Token Based Metabolism showing Bio-OS outer constraints and token lifespan states](token-metabolism.png)  
 - ![Love, Empathy, Coherence =](diagrams/Gemini_Generated_Image_1ztg761ztg761ztg.png)
 - ![What This Framework Does To Internal Geometry](diagrams/Gemini_Generated_Image_lmoroilmoroilmor.png)
 - ![The Mirror Of AI](diagrams/Gemini_Generated_Image_lseoj9lseoj9lseo.png)
